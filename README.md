@@ -1,3 +1,4 @@
 # Data-Science-on-Blockchain-with-R
 
-The details of images and codeset in R are included in the .pdf file and attached in this repository for reference.
+The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
+You need to view the file in "Read Mode" to see the contents properly after downloading the same.
